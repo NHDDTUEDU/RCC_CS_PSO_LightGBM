@@ -1,0 +1,10 @@
+The variables in the dataset are:
+Cement quantity (kg/m^3)
+Fly ash quantity (kg/m^3)
+Slag quantity (kg/m^3)
+Limestone powder quantity (kg/m^3)
+Water quantity (kg/m^3)
+Fine aggregate quantity (kg/m^3)
+Coarse aggregate quantity (kg/m^3)
+Curing time (day)
+Compressive strength (MPa)
